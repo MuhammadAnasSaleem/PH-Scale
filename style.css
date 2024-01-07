@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: rgb(75, 75, 75);
+    color: aliceblue;
+    font-weight: 600;}
+    #p-one{background-color: #2E83C5;}
+    #p-two{background-color: #2992CF;}
+    #p-three{background-color: #1E9ED9;}
+    #p-four{background-color: #34A8DF;}
+    #p-five{background-color: #57B6E7;}
+    #p-six{background-color: #74C1EC;}
+    #p-seven{background-color: #8FCCEF;}
+    #p-eight{background-color: #1AB585;}
+    #p-nine{background-color: #F5AFCC;}
+    #p-ten{background-color: #F49DC1;}
+    #p-eleven{background-color: #F38EB4;}
+    #p-twelve{background-color: #F179A5;}
+    #p-thirteen{background-color: #F16896;}
+    #p-fourteen{background-color: #F0578B;}
+    #p-fifteen{background-color: #EE347E;}
+p{margin: 0;
+padding: 5;}
+div{
+    width: 50%;
+    margin: auto;
+
+}
+body{
+    background-color: black;
+}
